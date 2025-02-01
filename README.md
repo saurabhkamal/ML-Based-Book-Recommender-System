@@ -35,13 +35,7 @@ In its most basic form, a recommendation system seeks for material that a user w
 # About this project:
 This is a collaborative filtering based books recommender system & a streamlit web application that can recommend various kinds of similar books based on user interest.
 
-![image](https://github.com/saurabhkamal/ML-Based-Book-Recommender-System/assets/39690914/ae103c57-d8a3-46ff-bbc2-c617331212b7)
-
 ![image](https://github.com/user-attachments/assets/db5614f1-5af7-4d46-874f-be5a5663f002)
-
-
-
-![image](https://github.com/saurabhkamal/ML-Based-Book-Recommender-System/assets/39690914/61fa73f9-06f3-492f-adf8-1d6b5ae09390)
 
 ![image](https://github.com/user-attachments/assets/c9b00afb-8a17-4fb2-a641-d8281927d42b)
 
