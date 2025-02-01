@@ -42,6 +42,9 @@ This is a collaborative filtering based books recommender system & a streamlit w
 
 ![image](https://github.com/saurabhkamal/ML-Based-Book-Recommender-System/assets/39690914/61fa73f9-06f3-492f-adf8-1d6b5ae09390)
 
+![image](https://github.com/user-attachments/assets/c9b00afb-8a17-4fb2-a641-d8281927d42b)
+
+
 
 # Concept used to build the model.pkl file : NearestNeighbors
 
